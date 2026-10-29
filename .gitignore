@@ -1,0 +1,13 @@
+# Windows 缩略图缓存与临时文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Office 临时/锁文件
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# macOS
+.DS_Store
